@@ -1,2 +1,2 @@
-1.0.3
-https://github.com/tupek/Jacuzzi-ESP32-Firmware/releases/download/v1.0.3/sketch_may29a.ino.bin
+1.0.4
+https://github.com/tupek/Jacuzzi-ESP32-Firmware/releases/download/v1.0.4/sketch_may8a_copy_20250508155358_copy_20250_copy_20250525223708.ino.bin
